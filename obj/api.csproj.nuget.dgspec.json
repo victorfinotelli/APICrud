@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.net6\\api\\api.csproj": {}
+    "C:\\.NET6\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\.net6\\api\\api.csproj": {
+    "C:\\.NET6\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.net6\\api\\api.csproj",
+        "projectUniqueName": "C:\\.NET6\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\.net6\\api\\api.csproj",
+        "projectPath": "C:\\.NET6\\api\\api.csproj",
         "packagesPath": "C:\\Users\\vicfi\\.nuget\\packages\\",
-        "outputPath": "C:\\.net6\\api\\obj\\",
+        "outputPath": "C:\\.NET6\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vicfi\\AppData\\Roaming\\NuGet\\NuGet.Config"

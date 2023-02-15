@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H9VqxHTbwZ2SnqGiCD6A4vklFqirZW/GLCwqINqODX9y7zF/01hCvzyXNrMnrOqiUBXSr27PQY4jDYkiAG4cgw==",
+  "dgSpecHash": "Mk5N5t4QsZ8kAkKuI3wxKXYc6PtlhBE51xKoE3wX/z7rp5i+UiGsdfiPco/TUIoPiSmxm3/r+cmINdX8TeHaKA==",
   "success": true,
-  "projectFilePath": "C:\\.net6\\api\\api.csproj",
+  "projectFilePath": "C:\\.NET6\\api\\api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
