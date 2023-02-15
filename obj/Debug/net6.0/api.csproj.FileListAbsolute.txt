@@ -19,3 +19,4 @@ C:\.net6\api\obj\Debug\net6.0\refint\api.dll
 C:\.net6\api\obj\Debug\net6.0\api.pdb
 C:\.net6\api\obj\Debug\net6.0\api.genruntimeconfig.cache
 C:\.net6\api\obj\Debug\net6.0\ref\api.dll
+C:\.NET6\api\bin\Debug\net6.0\appsettings.Staging.json
